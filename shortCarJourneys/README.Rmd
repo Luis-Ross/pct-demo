@@ -60,3 +60,5 @@ nrow(short_car_journeys)
 saveRDS(short_car_journeys, "short_car_journeys.Rds")
 ```
 
+## Bradford and Halifax have the biggest number of routes with more than 300 drivers which may suggest those are more car-dependant cities than Leeds, for instance. The latter contains only one route with more than 300 drivers. On the other hand, some small towns contain a high amount of short-distance drivers such as Wetherby, Keighley, Todmorden and Castleford.    
+
